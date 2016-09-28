@@ -90,7 +90,7 @@ namespace habemusPapa
         {
             int max = 0;
             int cont=0;
-            Cardenal c;
+            Cardenal c = null;
             
             foreach (Cardenal item in con._cardenales)
             {
