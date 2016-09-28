@@ -1,0 +1,6 @@
+D:\aurtenechea.ignacio\habemusPapa\habemusPapa\habemusPapa\bin\Debug\habemusPapa.exe.config
+D:\aurtenechea.ignacio\habemusPapa\habemusPapa\habemusPapa\obj\Debug\habemusPapa.csprojResolveAssemblyReference.cache
+D:\aurtenechea.ignacio\habemusPapa\habemusPapa\habemusPapa\bin\Debug\habemusPapa.exe
+D:\aurtenechea.ignacio\habemusPapa\habemusPapa\habemusPapa\bin\Debug\habemusPapa.pdb
+D:\aurtenechea.ignacio\habemusPapa\habemusPapa\habemusPapa\obj\Debug\habemusPapa.exe
+D:\aurtenechea.ignacio\habemusPapa\habemusPapa\habemusPapa\obj\Debug\habemusPapa.pdb

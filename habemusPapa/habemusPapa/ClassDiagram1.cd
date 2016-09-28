@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="habemusPapa.Cardenal" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Cardenal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="habemusPapa.Conclave">
+    <Position X="1" Y="0.5" Width="3.25" />
+    <Members>
+      <Method Name="Conclave" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAhAAAAQAAAAAAAAAAAACIAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Conclave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="habemusPapa.Program" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="habemusPapa.ENacionalidades" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAACIAgAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ENacionalidades.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
